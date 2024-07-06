@@ -2,6 +2,7 @@ from generic.base_class import BaseClass
 from generic.utility import Excel
 from page.login_page import LoginPage
 from page.home_page import HomePage
+
 class Test_ValidLogin(BaseClass):
 
     def test_validlogin(self):
