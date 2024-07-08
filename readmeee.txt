@@ -8,3 +8,6 @@ have a great day
 
 
 this is python push from ide to github
+
+
+bye bye
