@@ -2,6 +2,8 @@ from generic.base_class import BaseClass
 from generic.utility import Excel
 from page.login_page import LoginPage
 from page.home_page import HomePage
+import pytest
+@pytest.mark.run(order=1)
 
 class Test_ValidLogin(BaseClass):
 
